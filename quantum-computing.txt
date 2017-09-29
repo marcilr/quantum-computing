@@ -1,0 +1,6 @@
+quantum-computing.txt
+Created Fri Sep 29 12:13:53 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Quantum Computing
