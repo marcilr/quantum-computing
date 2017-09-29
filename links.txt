@@ -1,0 +1,20 @@
+links.txt
+Created Wed Sep 20 13:13:22 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Quantum Computing related links
+
+
+Links
+=====
+Hot off the press: New Jupyter notebooks for quantum computing
+Dr. Talia Gershon
+Published on September 5, 2017
+https://developer.ibm.com/dwblog/2017/quantum-computing-jupyter-notebooks-python/?imm_mid=0f6562&cmp=em-data-na-na-newsltr_20170920
+
+QISKit 
+Quantum Information Software Kit
+http://www.qiskit.org
+qiskit@qiskit.org
+https://github.com/QISKit
